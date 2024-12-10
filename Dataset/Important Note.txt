@@ -1,0 +1,2 @@
+You can find the full dataset on the following link
+https://semeval2025-task1.github.io/data/training/training_data.html
